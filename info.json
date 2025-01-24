@@ -1,0 +1,3589 @@
+{
+    "gbp": {
+        "code": "826",
+        "total": 323382989447.52295,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 323382989447.52295,
+                "peso": 0
+            },
+            {
+                "pais": "usa",
+                "parternCode": "842",
+                "total": 40462784441.728004,
+                "peso": 12.512341638889485
+            },
+            {
+                "pais": "jpy",
+                "parternCode": "392",
+                "total": 5436820107.188999,
+                "peso": 1.6812325584834944
+            },
+            {
+                "pais": "aud",
+                "parternCode": "36",
+                "total": 3537158717.9639997,
+                "peso": 1.0937986330100375
+            },
+            {
+                "pais": "cad",
+                "parternCode": "124",
+                "total": 9289755780.377,
+                "peso": 2.872679170987903
+            },
+            {
+                "pais": "nok",
+                "parternCode": "579",
+                "total": 8395032743.261999,
+                "peso": 2.5960031965825787
+            },
+            {
+                "pais": "sek",
+                "parternCode": "752",
+                "total": 3703557424.2130003,
+                "peso": 1.1452542480791175
+            },
+            {
+                "pais": "brl",
+                "parternCode": "76",
+                "total": 1926837226.72,
+                "peso": 0.5958375330786154
+            },
+            {
+                "pais": "chf",
+                "parternCode": "757",
+                "total": 8392528502.765,
+                "peso": 2.595228808139551
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 636705835.547,
+                "peso": 0.19688909321877662
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 2265652090.454,
+                "peso": 0.7006095448386778
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 7008037402.06,
+                "peso": 2.167101434133174
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 4095756012.9490004,
+                "peso": 1.266534155042079
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 6735863708.4539995,
+                "peso": 2.082936928736341
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 2072078191.605,
+                "peso": 0.6407505215858755
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 2161527432.263,
+                "peso": 0.6684109872185353
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 29540732946.159
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 1724536864.5239997
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 10411604561.809
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 271480998.437
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 161234608.34399998
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 1952199877.66
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 8927573.891999999
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 8880228072.591
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 210917476.12299997
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 1130871672.921
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 16844733085.36
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 779410154.015
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 10453869548.715
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 10599643519.506
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 378329439.06299996
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 934789984.026
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 324078362.906
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 137814043.67999998
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 15670306505.15
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 1554411333.976
+                    }
+                ],
+                "pais": "eur",
+                "total": 1352845409174.754,
+                "peso": 34.62461671844584
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 30097382837.476
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 46719036.456
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 4166046961.8490005
+                    }
+                ],
+                "pais": "cnh",
+                "total": 94551633547.18901,
+                "peso": 10.609756837982568
+            }
+        ]
+    },
+    "usa": {
+        "code": "842",
+        "total": 1377673721006.0,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 1377673721006.0,
+                "peso": 0
+            },
+            {
+                "pais": "jpy",
+                "parternCode": "392",
+                "total": 58910864230.0,
+                "peso": 4.276111486468822
+            },
+            {
+                "pais": "aud",
+                "parternCode": "36",
+                "total": 13458943597.0,
+                "peso": 0.9769325923682466
+            },
+            {
+                "pais": "cad",
+                "parternCode": "124",
+                "total": 192792567109.0,
+                "peso": 13.994065805960188
+            },
+            {
+                "pais": "nok",
+                "parternCode": "579",
+                "total": 3180603613.0,
+                "peso": 0.23086769853441574
+            },
+            {
+                "pais": "sek",
+                "parternCode": "752",
+                "total": 6292877720.0,
+                "peso": 0.4567756228524732
+            },
+            {
+                "pais": "brl",
+                "parternCode": "76",
+                "total": 24664162952.0,
+                "peso": 1.7902760701561342
+            },
+            {
+                "pais": "chf",
+                "parternCode": "757",
+                "total": 19213369374.0,
+                "peso": 1.3946240739766802
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 2592529375.0,
+                "peso": 0.18818166707185882
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 4125514653.0,
+                "peso": 0.29945513150874953
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 6640867646.0,
+                "peso": 0.4820348638972898
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 5785589916.0,
+                "peso": 0.4199535657670284
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 8007510201.0,
+                "peso": 0.5812341542780379
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 4363403770.0,
+                "peso": 0.3167225812229162
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 215303009152.0,
+                "peso": 15.628011616188934
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 60662826446.0
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 5448317838.0
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 16720767040.0
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 40892695.0
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 635683319.0
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 2238796726.0
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 15456871.0
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 11674986960.0
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 402029504.0
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 3298698014.0
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 25604044457.0
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 1194385586.0
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 29234659374.0
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 28717714908.0
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 270294308.0
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 894460755.0
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 448375596.0
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 223469891.0
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 32064008193.0
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 2880846456.0
+                    }
+                ],
+                "pais": "eur",
+                "total": 2632555731961.0,
+                "peso": 16.162804845722263
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 155340421474.0
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 82289638.0
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 7319920908.0
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 11.81285739421397,
+                "total": 473505764606.0
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 40462784441.728004,
+                "peso": 2.937036819732717
+            }
+        ]
+    },
+    "jpy": {
+        "code": "392",
+        "total": 361244433036.645,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 361244433036.645,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 70991509403.257
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 101814270.294
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 9578886763.334
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 22.331751871924773,
+                "total": 222757043513.69302
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 9514304706.576
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 876670526.966
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 2683409615.98
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 107962197.337
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 38081257.804
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 185840990.41899997
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 1303986.091
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 1750293439.266
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 101184343.698
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 448520632.15500003
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 4525983844.366
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 222112769.50500003
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 1865848188.9450002
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 4440477734.373
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 30100332.237
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 59148581.094
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 130625974.882
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 49398585.888
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 3738877163.479
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 241441022.47100002
+                    }
+                ],
+                "pais": "eur",
+                "total": 391531712088.0939,
+                "peso": 8.584654338572506
+            },
+            {
+                "pais": "aud",
+                "parternCode": "36",
+                "total": 17301449821.993,
+                "peso": 4.789402476477173
+            },
+            {
+                "pais": "cad",
+                "parternCode": "124",
+                "total": 6082478616.900001,
+                "peso": 1.6837570521904726
+            },
+            {
+                "pais": "nok",
+                "parternCode": "579",
+                "total": 527292914.02199996,
+                "peso": 0.14596568577944308
+            },
+            {
+                "pais": "sek",
+                "parternCode": "752",
+                "total": 1092477239.445,
+                "peso": 0.30242050521348185
+            },
+            {
+                "pais": "brl",
+                "parternCode": "76",
+                "total": 3484447736.17,
+                "peso": 0.9645678708124297
+            },
+            {
+                "pais": "chf",
+                "parternCode": "757",
+                "total": 3794496900.01,
+                "peso": 1.0503959516035177
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 1259931444.517,
+                "peso": 0.34877532476443485
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 674876475.056,
+                "peso": 0.1868198962632982
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 1222667651.4520001,
+                "peso": 0.3384599289667037
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 1886883265.3009999,
+                "peso": 0.5223286763036684
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 1068059590.8529999,
+                "peso": 0.2956611903676464
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 606522991.4,
+                "peso": 0.1678982251163089
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 4799928705.113,
+                "peso": 1.3287204635278325
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 5436820107.188999,
+                "peso": 1.505025298656293
+            },
+            {
+                "pais": "usa",
+                "total": 58910864230.0,
+                "peso": 16.307756976292012
+            }
+        ]
+    },
+    "aud": {
+        "code": "36",
+        "total": 161813315532.255,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 161813315532.255,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 42854105569.95
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 23310886.303999998
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 1801430330.258
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 27.611353638944472,
+                "total": 130410368812.71597
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 3855334956.0610003
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 301053694.03400004
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 737544196.584
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 8577978.898
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 16867814.316999998
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 172431091.681
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 15618.356
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 816945127.365
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 25292394.672
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 313727596.225
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 1681722978.46
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 71387018.14799999
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 441706768.1489999
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 1845427798.2480001
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 20999939.367
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 48059355.86900001
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 7930525.916
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 12523376.92
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 1415277486.655
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 120277456.698
+                    }
+                ],
+                "pais": "eur",
+                "total": 150777492260.03796,
+                "peso": 7.362251452197889
+            },
+            {
+                "pais": "cad",
+                "parternCode": "124",
+                "total": 1127429631.66,
+                "peso": 0.6967471298338636
+            },
+            {
+                "pais": "nok",
+                "parternCode": "579",
+                "total": 111670770.378,
+                "peso": 0.06901210200821832
+            },
+            {
+                "pais": "sek",
+                "parternCode": "752",
+                "total": 567779584.926,
+                "peso": 0.3508855764177342
+            },
+            {
+                "pais": "brl",
+                "parternCode": "76",
+                "total": 461082852.598,
+                "peso": 0.28494741058939005
+            },
+            {
+                "pais": "chf",
+                "parternCode": "757",
+                "total": 1088596089.001,
+                "peso": 0.6727481514239197
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 3325876558.7409997,
+                "peso": 2.055378784991299
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 356756880.99300003,
+                "peso": 0.22047436567226508
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 442277377.175,
+                "peso": 0.27332569987841254
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 741278638.2260001,
+                "peso": 0.4581073169335298
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 470985243.69200003,
+                "peso": 0.2910670497930168
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 148988328.66400003,
+                "peso": 0.09207420796856579
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 1004805414.7320001,
+                "peso": 0.6209658404358618
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 3537158717.9639997,
+                "peso": 2.1859503380974363
+            },
+            {
+                "pais": "usa",
+                "total": 13458943597.0,
+                "peso": 8.317574825489046
+            },
+            {
+                "pais": "jpy",
+                "total": 17301449821.993,
+                "peso": 10.692228735986948
+            }
+        ]
+    },
+    "cad": {
+        "code": "124",
+        "total": 283488407442.343,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 283488407442.343,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 22516796347.223
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 5619529.294
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 483942399.753
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 8.115449405439662,
+                "total": 68045570500.009995
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 5464724429.394
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 620920096.729
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 1391368561.509
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 3006261.9060000004
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 71118827.771
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 162656841.049
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 672248.3500000001
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 1132637751.7549999
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 45805174.142
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 540636436.244
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 2887603387.181
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 109600994.19099998
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 736747619.3410001
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 2922188689.795
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 61374874.102000006
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 61539940.804000005
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 41255150.701000005
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 87085572.565
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 2500452197.868
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 738923198.4359999
+                    }
+                ],
+                "pais": "eur",
+                "total": 234049628449.59396,
+                "peso": 6.906920261921229
+            },
+            {
+                "pais": "nok",
+                "parternCode": "579",
+                "total": 537864744.742,
+                "peso": 0.18973077227201715
+            },
+            {
+                "pais": "sek",
+                "parternCode": "752",
+                "total": 959372330.983,
+                "peso": 0.33841677677000637
+            },
+            {
+                "pais": "brl",
+                "parternCode": "76",
+                "total": 2417837496.8669996,
+                "peso": 0.8528876078852532
+            },
+            {
+                "pais": "chf",
+                "parternCode": "757",
+                "total": 2339653369.834,
+                "peso": 0.825308304823663
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 292364305.586,
+                "peso": 0.10313095629685042
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 326324253.20000005,
+                "peso": 0.11511026364151034
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 800732685.387,
+                "peso": 0.28245694157700474
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 861153604.0139998,
+                "peso": 0.3037703064415939
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 764401350.876,
+                "peso": 0.26964113198578216
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 229984759.923,
+                "peso": 0.08112668944664878
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 10165289042.763998,
+                "peso": 3.5857864998700006
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 9289755780.377,
+                "peso": 3.2769437961114467
+            },
+            {
+                "pais": "usa",
+                "total": 192792567109.0,
+                "peso": 68.00721371585924
+            },
+            {
+                "pais": "jpy",
+                "total": 6082478616.900001,
+                "peso": 2.145582837681671
+            },
+            {
+                "pais": "aud",
+                "total": 1127429631.66,
+                "peso": 0.3976986719957151
+            }
+        ]
+    },
+    "nok": {
+        "code": "579",
+        "total": 65356508054.906,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 65356508054.906,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 3615579898.54
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 835775.181
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 116429676.927
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 5.711512842014199,
+                "total": 10964840922.909
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 8822249671.81
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 249469559.969
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 2614900316.8710003
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 6060003.149
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 130714668.16
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 123356763.79699999
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 35984.656
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 1063612801.41
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 224552477.698
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 2033117853.117
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 3618501010.028
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 347540845.14100003
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 289383291.483
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 1145397755.1069999
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 142706775.977
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 658563255.016
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 28104154.689000003
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 7182673.816000001
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 6169893285.467
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 287520945.095
+                    }
+                ],
+                "pais": "eur",
+                "total": 337740380711.8511,
+                "peso": 42.78512565108956
+            },
+            {
+                "pais": "sek",
+                "parternCode": "752",
+                "total": 5319825726.666,
+                "peso": 8.139703122138679
+            },
+            {
+                "pais": "brl",
+                "parternCode": "76",
+                "total": 830109052.3149998,
+                "peso": 1.270124547684869
+            },
+            {
+                "pais": "chf",
+                "parternCode": "757",
+                "total": 360493747.47,
+                "peso": 0.5515804901436123
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 20872793.718,
+                "peso": 0.031936825175030416
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 3056581915.512,
+                "peso": 4.676782781822073
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 3428286563.382,
+                "peso": 5.2455167288036515
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 151436946.921,
+                "peso": 0.23170905458072796
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 488810403.8669999,
+                "peso": 0.7479138932213917
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 444920009.195,
+                "peso": 0.6807585387230645
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 241668563.38000003,
+                "peso": 0.36976969941076765
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 8395032743.261999,
+                "peso": 12.844983603177411
+            },
+            {
+                "pais": "usa",
+                "total": 3180603613.0,
+                "peso": 4.866544599243238
+            },
+            {
+                "pais": "jpy",
+                "total": 527292914.02199996,
+                "peso": 0.8067948085277463
+            },
+            {
+                "pais": "aud",
+                "total": 111670770.378,
+                "peso": 0.1708640404780889
+            },
+            {
+                "pais": "cad",
+                "total": 537864744.742,
+                "peso": 0.822970444336071
+            }
+        ]
+    },
+    "sek": {
+        "code": "752",
+        "total": 90253960294.361,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 90253960294.361,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 4580899923.823
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 1164064.526
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 112478002.432
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 5.2014803289183895,
+                "total": 13857505902.953003
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 11685712608.797
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 961312556.3149999
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 4190045761.759
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 32643186.867
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 117283235.50600001
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 460420593.214
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 142296.819
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 1745936249.7389998
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 785573349.706
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 5062604902.183
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 3238852105.4199996
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 193851677.69799998
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 583290403.113
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 2657201995.897
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 434368366.58500004
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 659723373.048
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 83170228.77100001
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 101602353.607
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 7094983970.913
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 508111343.836
+                    }
+                ],
+                "pais": "eur",
+                "total": 503192804499.172,
+                "peso": 44.98066392586815
+            },
+            {
+                "pais": "brl",
+                "parternCode": "76",
+                "total": 583951411.395,
+                "peso": 0.647009183298392
+            },
+            {
+                "pais": "chf",
+                "parternCode": "757",
+                "total": 693888665.952,
+                "peso": 0.7688179706340861
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 53529903.853999995,
+                "peso": 0.05931031023947712
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 6048037490.42,
+                "peso": 6.7011325272536295
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 3742455077.891,
+                "peso": 4.146582671480651
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 219308835.52800003,
+                "peso": 0.2429908170375348
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 879892018.7140001,
+                "peso": 0.9749068249684054
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 575389961.903,
+                "peso": 0.6375232289268862
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 346598479.63299996,
+                "peso": 0.38402578513184116
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 3703557424.2130003,
+                "peso": 4.103484669408347
+            },
+            {
+                "pais": "usa",
+                "total": 6292877720.0,
+                "peso": 6.972411736256159
+            },
+            {
+                "pais": "jpy",
+                "total": 1092477239.445,
+                "peso": 1.2104479802126282
+            },
+            {
+                "pais": "aud",
+                "total": 567779584.926,
+                "peso": 0.6290910482755564
+            },
+            {
+                "pais": "cad",
+                "total": 959372330.983,
+                "peso": 1.062969788643104
+            },
+            {
+                "pais": "nok",
+                "total": 5319825726.666,
+                "peso": 5.894285092106235
+            }
+        ]
+    },
+    "brl": {
+        "code": "76",
+        "total": 162398066698.0,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 162398066698.0,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 45792120721.0
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 318305.0
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 705373863.0
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 28.6319990344889,
+                "total": 138082372636.0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 5088947464.0
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 374105296.0
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 1597101775.0
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 20770345.0
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 33168255.0
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 152494929.0
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 50692224.0
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 3588255821.0
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 40490995.0
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 277681695.0
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 2345265451.0
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 144083482.0
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 402862175.0
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 3181693767.0
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 19413970.0
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 25712896.0
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 24259532.0
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 188398574.0
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 3596162013.0
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 1561437252.0
+                    }
+                ],
+                "pais": "eur",
+                "total": 251608604173.0,
+                "peso": 13.986002649426688
+            },
+            {
+                "pais": "chf",
+                "parternCode": "757",
+                "total": 1079256978.0,
+                "peso": 0.6645750161589156
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 43565970.0,
+                "peso": 0.02682665556666786
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 669475368.0,
+                "peso": 0.4122434346739947
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 594356070.0,
+                "peso": 0.3659871586435085
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 523507305.0,
+                "peso": 0.3223605524649064
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 1458122036.0,
+                "peso": 0.897869085296172
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 174159845.0,
+                "peso": 0.1072425605434531
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 3285023989.0,
+                "peso": 2.0228221036084886
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 1926837226.72,
+                "peso": 1.1864902494825882
+            },
+            {
+                "pais": "usa",
+                "total": 24664162952.0,
+                "peso": 15.187473258450895
+            },
+            {
+                "pais": "jpy",
+                "total": 3484447736.17,
+                "peso": 2.1456214393548025
+            },
+            {
+                "pais": "aud",
+                "total": 461082852.598,
+                "peso": 0.28392139264529703
+            },
+            {
+                "pais": "cad",
+                "total": 2417837496.8669996,
+                "peso": 1.4888339165781315
+            },
+            {
+                "pais": "nok",
+                "total": 830109052.3149998,
+                "peso": 0.5111569793861487
+            },
+            {
+                "pais": "sek",
+                "total": 583951411.395,
+                "peso": 0.3595802728864577
+            }
+        ]
+    },
+    "chf": {
+        "code": "757",
+        "total": 366486102626.52606,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 366486102626.52606,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 21854595684.829998
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 62866367.188999996
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 4703804402.200998
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 7.263922496223237,
+                "total": 70393324191.069
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 57478980662.49703
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 9375460796.028002
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 4604137814.02
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 71333122.18300001
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 407036456.017
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 1183095034.7560003
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 245789.82999999996
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 6555512799.141
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 203554749.36799997
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 1192922050.442
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 19339575212.693
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 490208714.783
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 2835965917.2179995
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 28729990254.238
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 136338732.61200002
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 243245224.85399997
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 290285631.919
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 102524753.07000001
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 6536140492.954
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 1310133408.9819999
+                    }
+                ],
+                "pais": "eur",
+                "total": 1976340107294.3926,
+                "peso": 38.497145350524214
+            },
+            {
+                "pais": "nzd",
+                "parternCode": "554",
+                "total": 183810155.34199998,
+                "peso": 0.05015474093687936
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 1703691962.726,
+                "peso": 0.4648721876535047
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 3492369566.6890006,
+                "peso": 0.9529336969833095
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 887815779.3,
+                "peso": 0.24225087198047013
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 4737832014.385,
+                "peso": 1.2927726264188437
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 1446074374.239,
+                "peso": 0.39457822926307434
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 2282621065.561,
+                "peso": 0.6228397336766529
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 8392528502.765,
+                "peso": 2.289999113913891
+            },
+            {
+                "pais": "usa",
+                "total": 19213369374.0,
+                "peso": 5.242591529747504
+            },
+            {
+                "pais": "jpy",
+                "total": 3794496900.01,
+                "peso": 1.0353726574665907
+            },
+            {
+                "pais": "aud",
+                "total": 1088596089.001,
+                "peso": 0.29703611711310984
+            },
+            {
+                "pais": "cad",
+                "total": 2339653369.834,
+                "peso": 0.6384016619092004
+            },
+            {
+                "pais": "nok",
+                "total": 360493747.47,
+                "peso": 0.09836491612817508
+            },
+            {
+                "pais": "sek",
+                "total": 693888665.952,
+                "peso": 0.18933560126265392
+            },
+            {
+                "pais": "brl",
+                "total": 1079256978.0,
+                "peso": 0.2944878319437491
+            }
+        ]
+    },
+    "nzd": {
+        "code": "554",
+        "total": 22510816357.664997,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 22510816357.664997,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 4847492872.601
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 615905.1980000001
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 236601501.431
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 22.587853760792825,
+                "total": 14780311929.63
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 601045102.0760001
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 49046633.986
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 118550248.75500001
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 2149909.743
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 1131544.487
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 29005520.678
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 76126.592
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 145206642.22700003
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 4280630.058
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 37420525.979
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 385974955.956
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 23039071.683999997
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 68585351.408
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 294428213.383
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 4096474.455
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 12738382.175999999
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 802583.905
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 1361475.22
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 271895947.385
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 14883174.943
+                    }
+                ],
+                "pais": "eur",
+                "total": 25259196118.405006,
+                "peso": 9.176559758094319
+            },
+            {
+                "pais": "dkk",
+                "parternCode": "208",
+                "total": 83408335.146,
+                "peso": 0.3705255901019299
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 82511537.35599999,
+                "peso": 0.36654173729201334
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 57390169.27,
+                "peso": 0.2549448600981478
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 54524153.166999996,
+                "peso": 0.24221313123739455
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 23282465.847,
+                "peso": 0.10342790539922934
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 158451471.783,
+                "peso": 0.703890384362035
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 636705835.547,
+                "peso": 2.828444004120712
+            },
+            {
+                "pais": "usa",
+                "total": 2592529375.0,
+                "peso": 11.516816333127947
+            },
+            {
+                "pais": "jpy",
+                "total": 1259931444.517,
+                "peso": 5.5970046776557245
+            },
+            {
+                "pais": "aud",
+                "total": 3325876558.7409997,
+                "peso": 14.774571059074583
+            },
+            {
+                "pais": "cad",
+                "total": 292364305.586,
+                "peso": 1.2987725586702197
+            },
+            {
+                "pais": "nok",
+                "total": 20872793.718,
+                "peso": 0.09272339743863955
+            },
+            {
+                "pais": "sek",
+                "total": 53529903.853999995,
+                "peso": 0.23779636865889545
+            },
+            {
+                "pais": "brl",
+                "total": 43565970.0,
+                "peso": 0.19353349655471586
+            },
+            {
+                "pais": "chf",
+                "total": 183810155.34199998,
+                "peso": 0.8165414901952771
+            }
+        ]
+    },
+    "dkk": {
+        "code": "208",
+        "total": 63366626171.023994,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 63366626171.023994,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 3123981378.3
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 1703149.4719999998
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 111200749.088
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 5.10818623690612,
+                "total": 9486551182.932
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 9845939184.789999
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 451368031.959
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 1487347667.61
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 22101966.326
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 71699010.602
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 182984396.329
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 930997.7479999999
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 1082006578.1139998
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 177646723.98999998
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 882833091.891
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 1931016016.625
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 176348000.315
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 374223639.545
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 1588335364.277
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 234271589.627
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 347099270.909
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 76648602.102
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 66046276.508
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 4659324675.299
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 223767677.983
+                    }
+                ],
+                "pais": "eur",
+                "total": 310654467038.94885,
+                "peso": 37.68851240097994
+            },
+            {
+                "pais": "pln",
+                "parternCode": "616",
+                "total": 2618649260.4620004,
+                "peso": 4.132536981524582
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 100356142.565,
+                "peso": 0.15837381383402482
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 650077610.1509999,
+                "peso": 1.0258990409185844
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 358626050.356,
+                "peso": 0.565954149725571
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 193313698.23999998,
+                "peso": 0.30507178608224145
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 2265652090.454,
+                "peso": 3.575465868009282
+            },
+            {
+                "pais": "usa",
+                "total": 4125514653.0,
+                "peso": 6.510548063369194
+            },
+            {
+                "pais": "jpy",
+                "total": 674876475.056,
+                "peso": 1.065034570776319
+            },
+            {
+                "pais": "aud",
+                "total": 356756880.99300003,
+                "peso": 0.5630043803028545
+            },
+            {
+                "pais": "cad",
+                "total": 326324253.20000005,
+                "peso": 0.5149781090116174
+            },
+            {
+                "pais": "nok",
+                "total": 3056581915.512,
+                "peso": 4.823646294916204
+            },
+            {
+                "pais": "sek",
+                "total": 6048037490.42,
+                "peso": 9.544515553181872
+            },
+            {
+                "pais": "brl",
+                "total": 669475368.0,
+                "peso": 1.056510987650049
+            },
+            {
+                "pais": "chf",
+                "total": 1703691962.726,
+                "peso": 2.6886265936390608
+            },
+            {
+                "pais": "nzd",
+                "total": 83408335.146,
+                "peso": 0.1316281774587213
+            }
+        ]
+    },
+    "pln": {
+        "code": "616",
+        "total": 167180980968.0,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 167180980968.0,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 12050429277.0
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 1923546.0
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 110874076.0
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 7.275484824035191,
+                "total": 36266008999.0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 38529806162.0
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 2953954456.0
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 3656005222.0
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 54897360.0
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 452791249.0
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 3387639089.0
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 1303046.0
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 4060937092.0
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 481670279.0
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 1327966588.0
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 7911548234.0
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 642723580.0
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 915812986.0
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 7235589115.0
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 723519628.0
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 2256411467.0
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 218268086.0
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 30183092.0
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 6905589469.0
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 711332939.0
+                    }
+                ],
+                "pais": "eur",
+                "total": 1198704884848.0,
+                "peso": 49.322565677960235
+            },
+            {
+                "pais": "zar",
+                "parternCode": "710",
+                "total": 355197461.0,
+                "peso": 0.21246284053566364
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 2905214200.0,
+                "peso": 1.7377659726473822
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 3381744422.0,
+                "peso": 2.0228045094718623
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 764421309.0,
+                "peso": 0.4572417894511083
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 7008037402.06,
+                "peso": 4.19188675738265
+            },
+            {
+                "pais": "usa",
+                "total": 6640867646.0,
+                "peso": 3.9722626386975946
+            },
+            {
+                "pais": "jpy",
+                "total": 1222667651.4520001,
+                "peso": 0.7313437475797742
+            },
+            {
+                "pais": "aud",
+                "total": 442277377.175,
+                "peso": 0.26455005504463214
+            },
+            {
+                "pais": "cad",
+                "total": 800732685.387,
+                "peso": 0.47896159045762965
+            },
+            {
+                "pais": "nok",
+                "total": 3428286563.382,
+                "peso": 2.050643885166702
+            },
+            {
+                "pais": "sek",
+                "total": 3742455077.891,
+                "peso": 2.2385650904915675
+            },
+            {
+                "pais": "brl",
+                "total": 594356070.0,
+                "peso": 0.3555165584976232
+            },
+            {
+                "pais": "chf",
+                "total": 3492369566.6890006,
+                "peso": 2.0889754004718233
+            },
+            {
+                "pais": "nzd",
+                "total": 82511537.35599999,
+                "peso": 0.04935461969312973
+            },
+            {
+                "pais": "dkk",
+                "total": 2618649260.4620004,
+                "peso": 1.5663559606479605
+            }
+        ]
+    },
+    "zar": {
+        "code": "710",
+        "total": 107144285080.22803,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 107144285080.22803,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 18288904433.137
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 262012.234
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 667222651.5619998
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 17.69239402991839,
+                "total": 55534459975.44101
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 6752893240.345
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 387656058.47499996
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 1736453136.3479998
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 14382948.325000001
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 26090399.175999995
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 153553482.51900002
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 5071412.964
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 1475513714.3060002
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 10275385.929
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 244157709.397
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 1330931312.993
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 115479441.97999999
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 309650982.404
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 1722141259.3609998
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 54076967.43200001
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 132384219.88200001
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 37441141.468
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 21730297.13
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 2824165694.8669996
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 374615562.54499996
+                    }
+                ],
+                "pais": "eur",
+                "total": 234811572716.3562,
+                "peso": 16.546532887471376
+            },
+            {
+                "pais": "try",
+                "parternCode": "792",
+                "total": 536682297.951,
+                "peso": 0.5008968024278107
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 256257716.533,
+                "peso": 0.23917068123709825
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 456111837.789,
+                "peso": 0.4256987084728507
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 4095756012.9490004,
+                "peso": 3.822654665978834
+            },
+            {
+                "pais": "usa",
+                "total": 5785589916.0,
+                "peso": 5.399811956062647
+            },
+            {
+                "pais": "jpy",
+                "total": 1886883265.3009999,
+                "peso": 1.76106757713501
+            },
+            {
+                "pais": "aud",
+                "total": 741278638.2260001,
+                "peso": 0.6918508417606611
+            },
+            {
+                "pais": "cad",
+                "total": 861153604.0139998,
+                "peso": 0.8037326520674256
+            },
+            {
+                "pais": "nok",
+                "total": 151436946.921,
+                "peso": 0.1413392667724707
+            },
+            {
+                "pais": "sek",
+                "total": 219308835.52800003,
+                "peso": 0.20468551856385517
+            },
+            {
+                "pais": "brl",
+                "total": 523507305.0,
+                "peso": 0.4886003062207243
+            },
+            {
+                "pais": "chf",
+                "total": 887815779.3,
+                "peso": 0.8286170173567512
+            },
+            {
+                "pais": "nzd",
+                "total": 57390169.27,
+                "peso": 0.05356344412305995
+            },
+            {
+                "pais": "dkk",
+                "total": 100356142.565,
+                "peso": 0.09366448475516434
+            },
+            {
+                "pais": "pln",
+                "total": 355197461.0,
+                "peso": 0.3315132120523586
+            }
+        ]
+    },
+    "try": {
+        "code": "792",
+        "total": 290745816192.0,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 290745816192.0,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 24892626026.0
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 255706.0
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 452548612.0
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 8.717384372355895,
+                "total": 75130938102.0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 22980931412.0
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 1882909766.0
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 3657732216.0
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 1536760042.0
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 415187844.0
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 1553577224.0
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 188973086.0
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 9203209946.0
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 210517154.0
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 870678094.0
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 10919068722.0
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 3255473202.0
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 1022534620.0
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 13510218208.0
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 193295866.0
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 562532000.0
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 120354066.0
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 437858988.0
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 6591719708.0
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 1380997866.0
+                    }
+                ],
+                "pais": "eur",
+                "total": 1013269311804.0,
+                "peso": 27.685533392798256
+            },
+            {
+                "pais": "huf",
+                "parternCode": "348",
+                "total": 2040568376.0,
+                "peso": 0.7018392913528525
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 1291264126.0,
+                "peso": 0.4441213094352103
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 6735863708.4539995,
+                "peso": 2.3167534434978188
+            },
+            {
+                "pais": "usa",
+                "total": 8007510201.0,
+                "peso": 2.754127404437722
+            },
+            {
+                "pais": "jpy",
+                "total": 1068059590.8529999,
+                "peso": 0.3673516629892568
+            },
+            {
+                "pais": "aud",
+                "total": 470985243.69200003,
+                "peso": 0.161992096691419
+            },
+            {
+                "pais": "cad",
+                "total": 764401350.876,
+                "peso": 0.26291052469391746
+            },
+            {
+                "pais": "nok",
+                "total": 488810403.8669999,
+                "peso": 0.16812293647734
+            },
+            {
+                "pais": "sek",
+                "total": 879892018.7140001,
+                "peso": 0.3026327361260962
+            },
+            {
+                "pais": "brl",
+                "total": 1458122036.0,
+                "peso": 0.5015109263127278
+            },
+            {
+                "pais": "chf",
+                "total": 4737832014.385,
+                "peso": 1.6295443478561613
+            },
+            {
+                "pais": "nzd",
+                "total": 54524153.166999996,
+                "peso": 0.018753203014620114
+            },
+            {
+                "pais": "dkk",
+                "total": 650077610.1509999,
+                "peso": 0.22358966972089042
+            },
+            {
+                "pais": "pln",
+                "total": 2905214200.0,
+                "peso": 0.9992282049147293
+            },
+            {
+                "pais": "zar",
+                "total": 536682297.951,
+                "peso": 0.18458814127753115
+            }
+        ]
+    },
+    "huf": {
+        "code": "348",
+        "total": 145001774762.0,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 145001774762.0,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 5808390178.0
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 2830358.0
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 1234145950.0
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 4.858813968011066,
+                "total": 18664977200.0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 34212078722.0
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 7635326694.0
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 3066622268.0
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 73120574.0
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 1815300272.0
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 8180505644.0
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 359792.0
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 3267810260.0
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 92366334.0
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 352233498.0
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 5104678364.0
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 523499362.0
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 934121922.0
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 6641299206.0
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 125784556.0
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 287047470.0
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 159015384.0
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 48337882.0
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 6013221878.0
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 428933652.0
+                    }
+                ],
+                "pais": "eur",
+                "total": 1210123701166.0,
+                "peso": 54.45565329362655
+            },
+            {
+                "pais": "mxn",
+                "parternCode": "484",
+                "total": 1111988170.0,
+                "peso": 0.7668790067053813
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 2072078191.605,
+                "peso": 1.429001951876813
+            },
+            {
+                "pais": "usa",
+                "total": 4363403770.0,
+                "peso": 3.0092071474034805
+            },
+            {
+                "pais": "jpy",
+                "total": 606522991.4,
+                "peso": 0.418286598488551
+            },
+            {
+                "pais": "aud",
+                "total": 148988328.66400003,
+                "peso": 0.10274931386773949
+            },
+            {
+                "pais": "cad",
+                "total": 229984759.923,
+                "peso": 0.15860823793397535
+            },
+            {
+                "pais": "nok",
+                "total": 444920009.195,
+                "peso": 0.30683763003954506
+            },
+            {
+                "pais": "sek",
+                "total": 575389961.903,
+                "peso": 0.3968158064599014
+            },
+            {
+                "pais": "brl",
+                "total": 174159845.0,
+                "peso": 0.12010876783119301
+            },
+            {
+                "pais": "chf",
+                "total": 1446074374.239,
+                "peso": 0.9972804654374248
+            },
+            {
+                "pais": "nzd",
+                "total": 23282465.847,
+                "peso": 0.016056676468419018
+            },
+            {
+                "pais": "dkk",
+                "total": 358626050.356,
+                "peso": 0.24732528339369236
+            },
+            {
+                "pais": "pln",
+                "total": 3381744422.0,
+                "peso": 2.3322089867869944
+            },
+            {
+                "pais": "zar",
+                "total": 256257716.533,
+                "peso": 0.1767272965821356
+            },
+            {
+                "pais": "try",
+                "total": 2040568376.0,
+                "peso": 1.407271310540375
+            }
+        ]
+    },
+    "mxn": {
+        "code": "484",
+        "total": 318249588922.0,
+        "periodo": [
+            "08",
+            "07",
+            "06"
+        ],
+        "socios": [
+            {
+                "pais": "world",
+                "parternCode": "0",
+                "total": 318249588922.0,
+                "peso": 0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "156",
+                        "total": 23164105150.0
+                    },
+                    {
+                        "parternCode": "446",
+                        "total": 3435542.0
+                    },
+                    {
+                        "parternCode": "344",
+                        "total": 496244283.0
+                    }
+                ],
+                "pais": "cnh",
+                "peso": 11.348726701937599,
+                "total": 69995430817.0
+            },
+            {
+                "grupo": [
+                    {
+                        "parternCode": "276",
+                        "total": 5346815441.0
+                    },
+                    {
+                        "parternCode": "40",
+                        "total": 426738328.0
+                    },
+                    {
+                        "parternCode": "56",
+                        "total": 464062481.0
+                    },
+                    {
+                        "parternCode": "196",
+                        "total": 32952.0
+                    },
+                    {
+                        "parternCode": "191",
+                        "total": 6771933.0
+                    },
+                    {
+                        "parternCode": "703",
+                        "total": 103597164.0
+                    },
+                    {
+                        "parternCode": "706",
+                        "total": 0
+                    },
+                    {
+                        "parternCode": "724",
+                        "total": 1503294677.0
+                    },
+                    {
+                        "parternCode": "233",
+                        "total": 22667053.0
+                    },
+                    {
+                        "parternCode": "246",
+                        "total": 140097400.0
+                    },
+                    {
+                        "parternCode": "251",
+                        "total": 1094604768.0
+                    },
+                    {
+                        "parternCode": "300",
+                        "total": 38740898.0
+                    },
+                    {
+                        "parternCode": "372",
+                        "total": 766179694.0
+                    },
+                    {
+                        "parternCode": "380",
+                        "total": 1805070432.0
+                    },
+                    {
+                        "parternCode": "428",
+                        "total": 4294481.0
+                    },
+                    {
+                        "parternCode": "440",
+                        "total": 13497496.0
+                    },
+                    {
+                        "parternCode": "442",
+                        "total": 42435378.0
+                    },
+                    {
+                        "parternCode": "470",
+                        "total": 11820393.0
+                    },
+                    {
+                        "parternCode": "528",
+                        "total": 627102062.0
+                    },
+                    {
+                        "parternCode": "620",
+                        "total": 132594593.0
+                    }
+                ],
+                "pais": "eur",
+                "total": 178161139231.0,
+                "peso": 6.018955114764224
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 2161527432.263,
+                "peso": 1.0366297747131097
+            },
+            {
+                "pais": "usa",
+                "total": 215303009152.0,
+                "peso": 103.25546025507772
+            },
+            {
+                "pais": "jpy",
+                "total": 4799928705.113,
+                "peso": 2.3019596873729906
+            },
+            {
+                "pais": "aud",
+                "total": 1004805414.7320001,
+                "peso": 0.4818866488377789
+            },
+            {
+                "pais": "cad",
+                "total": 10165289042.763998,
+                "peso": 4.875090240821861
+            },
+            {
+                "pais": "nok",
+                "total": 241668563.38000003,
+                "peso": 0.11589990701601638
+            },
+            {
+                "pais": "sek",
+                "total": 346598479.63299996,
+                "peso": 0.16622241221417292
+            },
+            {
+                "pais": "brl",
+                "total": 3285023989.0,
+                "peso": 1.575438565717861
+            },
+            {
+                "pais": "chf",
+                "total": 2282621065.561,
+                "peso": 1.0947041085990672
+            },
+            {
+                "pais": "nzd",
+                "total": 158451471.783,
+                "peso": 0.07599048295464171
+            },
+            {
+                "pais": "dkk",
+                "total": 193313698.23999998,
+                "peso": 0.092709781270593
+            },
+            {
+                "pais": "pln",
+                "total": 764421309.0,
+                "peso": 0.3666027446641973
+            },
+            {
+                "pais": "zar",
+                "total": 456111837.789,
+                "peso": 0.21874305391358276
+            },
+            {
+                "pais": "try",
+                "total": 1291264126.0,
+                "peso": 0.6192671071627803
+            },
+            {
+                "pais": "huf",
+                "total": 1111988170.0,
+                "peso": 0.5332895752074305
+            }
+        ]
+    },
+    "eur": {
+        "code": [
+            156,
+            344,
+            446
+        ],
+        "total": 12141352670732.533,
+        "grupo": [
+            {
+                "parternCode": "276",
+                "total": 1556295438391.823
+            },
+            {
+                "parternCode": "40",
+                "total": 33718847196.985
+            },
+            {
+                "parternCode": "56",
+                "total": 178938533764.54
+            },
+            {
+                "parternCode": "196",
+                "total": 2266172541.171
+            },
+            {
+                "parternCode": "191",
+                "total": 12347753121.0
+            },
+            {
+                "parternCode": "703",
+                "total": 109662944842.71701
+            },
+            {
+                "parternCode": "706",
+                "total": 274207054.298
+            },
+            {
+                "parternCode": "724",
+                "total": 428129673493.86
+            },
+            {
+                "parternCode": "233",
+                "total": 6700367948.46
+            },
+            {
+                "parternCode": "246",
+                "total": 39600130325.816
+            },
+            {
+                "parternCode": "251",
+                "total": 108764103905.08199
+            },
+            {
+                "parternCode": "300",
+                "total": 35335275623.774
+            },
+            {
+                "parternCode": "372",
+                "total": 93633446728.481
+            },
+            {
+                "parternCode": "380",
+                "total": 223238353849.06802
+            },
+            {
+                "parternCode": "428",
+                "total": 10683333800.380999
+            },
+            {
+                "parternCode": "440",
+                "total": 21674397088.0
+            },
+            {
+                "parternCode": "442",
+                "total": 6269947371.899
+            },
+            {
+                "parternCode": "470",
+                "total": 1527338228.404
+            },
+            {
+                "parternCode": "528",
+                "total": 338428724721.396
+            },
+            {
+                "parternCode": "620",
+                "total": 100457580371.81198
+            }
+        ],
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 1352845409174.754,
+                "peso": 11.142460365523108
+            },
+            {
+                "pais": "usa",
+                "total": 2632555731961.0,
+                "peso": 21.682557152852787
+            },
+            {
+                "pais": "jpy",
+                "total": 391531712088.0939,
+                "peso": 3.22477834806582
+            },
+            {
+                "pais": "aud",
+                "total": 150777492260.03796,
+                "peso": 1.2418508575530982
+            },
+            {
+                "pais": "cad",
+                "total": 234049628449.59396,
+                "peso": 1.9277063668019854
+            },
+            {
+                "pais": "nok",
+                "total": 337740380711.8511,
+                "peso": 2.7817360212754116
+            },
+            {
+                "pais": "sek",
+                "total": 503192804499.172,
+                "peso": 4.144454231299522
+            },
+            {
+                "pais": "brl",
+                "total": 251608604173.0,
+                "peso": 2.0723276145294567
+            },
+            {
+                "pais": "chf",
+                "total": 1976340107294.3926,
+                "peso": 16.27775883702382
+            },
+            {
+                "pais": "nzd",
+                "total": 25259196118.405006,
+                "peso": 0.20804268522150607
+            },
+            {
+                "pais": "dkk",
+                "total": 310654467038.94885,
+                "peso": 2.5586479156296997
+            },
+            {
+                "pais": "pln",
+                "total": 1198704884848.0,
+                "peso": 9.872910517932247
+            },
+            {
+                "pais": "zar",
+                "total": 234811572716.3562,
+                "peso": 1.9339819794740314
+            },
+            {
+                "pais": "try",
+                "total": 1013269311804.0,
+                "peso": 8.345604804368685
+            },
+            {
+                "pais": "huf",
+                "total": 1210123701166.0,
+                "peso": 9.966959481237017
+            },
+            {
+                "pais": "mxn",
+                "total": 178161139231.0,
+                "peso": 1.4673911883020105
+            }
+        ],
+        "socios": [
+            {
+                "pais": "cnh",
+                "total": 139726527197.92792,
+                "peso": 1.1508316329097925
+            }
+        ]
+    },
+    "cnh": {
+        "total": 1502427102838.5417,
+        "preSocios": [
+            {
+                "pais": "gbp",
+                "total": 94551633547.18901,
+                "peso": 6.293259311453594
+            },
+            {
+                "pais": "usa",
+                "total": 473505764606.0,
+                "peso": 31.516055834682668
+            },
+            {
+                "pais": "jpy",
+                "total": 222757043513.69302,
+                "peso": 14.826479307570876
+            },
+            {
+                "pais": "aud",
+                "total": 130410368812.71597,
+                "peso": 8.679979785131081
+            },
+            {
+                "pais": "cad",
+                "total": 68045570500.009995,
+                "peso": 4.529043064482211
+            },
+            {
+                "pais": "nok",
+                "total": 10964840922.909,
+                "peso": 0.7298085146489358
+            },
+            {
+                "pais": "sek",
+                "total": 13857505902.953003,
+                "peso": 0.9223413153804241
+            },
+            {
+                "pais": "brl",
+                "total": 138082372636.0,
+                "peso": 9.19062045507036
+            },
+            {
+                "pais": "chf",
+                "total": 70393324191.069,
+                "peso": 4.685307131246142
+            },
+            {
+                "pais": "nzd",
+                "total": 14780311929.63,
+                "peso": 0.9837623337402192
+            },
+            {
+                "pais": "dkk",
+                "total": 9486551182.932,
+                "peso": 0.6314150726520454
+            },
+            {
+                "pais": "pln",
+                "total": 36266008999.0,
+                "peso": 2.4138281937594495
+            },
+            {
+                "pais": "zar",
+                "total": 55534459975.44101,
+                "peso": 3.6963164382830636
+            },
+            {
+                "pais": "try",
+                "total": 75130938102.0,
+                "peso": 5.000637831949038
+            },
+            {
+                "pais": "huf",
+                "total": 18664977200.0,
+                "peso": 1.2423216517284719
+            },
+            {
+                "pais": "mxn",
+                "total": 69995430817.0,
+                "peso": 4.658823758221437
+            },
+            {
+                "pais": "eur",
+                "total": 139726527197.92792,
+                "peso": 9.300053688724198
+            }
+        ]
+    }
+}
